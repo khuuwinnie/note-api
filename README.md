@@ -14,7 +14,7 @@ See it in action <a href="https://scribbles-winnie-khuu.herokuapp.com">here</a>.
 
 ## SEE IT LOCALLY
 
-1. Download the repository and unzip the files.
+1. Download the repository and unzip the files from <a href="https://github.com/khuuwinnie/scribbles">Scribbles repo</a>.
 2. In your preferred coding environment, navigate to the folder `cd XXXXX/scribbles-master`
 3. Visit your localhost link (i.e. localhost:3030 or localhost:3000) in your browser.
 
